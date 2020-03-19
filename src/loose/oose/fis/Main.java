@@ -8,7 +8,7 @@ import loose.oose.fis.processors.ProcesorCautare;
 import loose.oose.fis.processors.ProcesorCompus;
 
 import java.util.ArrayList;
-
+// Comentariu 1
 public class Main {
 
     public static void main(String[] args) {
